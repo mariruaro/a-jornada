@@ -1,0 +1,781 @@
+@title A Jornada
+
+<img src="https://i.imgur.com/nnBze4C.jpg" />
+
+<p>Era uma das noites mais frias da estação, o chão ainda estava úmido devido a tempestade que horas antes havia atrasado sua jornada. O caminho para o vilarejo de RagFord deveria ser realizado em oito dias e se passava dentro da floresta de Orswick onde várias criaturas misteriosas habitavam e um viajante nunca deveria passar mais tempo do que o necessário para chegar em seu destino, alguns dos anciãos declaravam que o lugar era amaldiçoado. Com um atraso de dois dias e um mochila de suprimentos quase esgotada uma decisão deveria ser tomada continuar caminhando ou parar na caverna que estava logo adiante e estabelecer acampamento para a noite.</p> 
+</br>[[Estabelecer acampamento na caverna.]]
+</br>
+</br>[[Continuar caminhando.]]
+
+[[Continuar caminhando.]]:
+@clear
+<p>Já fazia horas que você estava caminhando ou eram minutos com frio e olhos quase fechados era difícil de acompanhar o tempo. Seus movimentos pareciam diminuir cada vez mais de velocidade até que tudo ficou preto…</p>
++++...
+@clear
+<p>Você estava confortável deitado numa cama macia com cobertas quentes... num susto abriu os olhos sua última memória era estar na estrada.
+</br>- Calma, calma dorminhão - você ouviu uma voz falar.
+Levantando da cama viu um pequeno ser de menos de meio metro, com uma barba e cabelo longos e um chapéu vermelho pontudo na cabeça sem dúvida um gnomo perto da lareira.
+</br>- Onde estou? - Perguntou confuso.
+</br>- Você está na minha casa, a 3 dias atrás lhe encontrei duro como um pedra, e lhe arrastei até aqui a propósito deveria começar a pensar em uma dieta - respondeu o gnomo.
+</br>- 3 dias? Eu dormi por dias? Eu já devia ter chegado em RagFord! - Exclamou agitado.
+</br>- RagFord você disse, eu estou procurando alguém para fazer um serviço na cidade.
+</br>- Que tipo se serviço? - Você perguntou desconfiado.
+</br>- Oh nada muito sombrio só roubar alguns cogumelos na casa do cozinheiro da cidade, o bastardo realmente não gosta de dividir seus cogumelos. Então o que me diz está disposto a aceitar o serviço e ganhar umas moedas extras?
+Você continuou o olhando com desconfiança e respondeu:</p>
+</br>[[Aceitar serviço.]]
+</br>
+</br>[[Não aceitar serviço.]]
+
+[[Não aceitar serviço.]]:
+@clear
+<p>-Tem certeza eu salvei a sua vida, pense nisso como um modo de retribuir - argumentou o gnomo.</p>
+</br>[[Aceitar serviço.]]
+</br>
+</br>[[Continuar não aceitando o serviço.]]
+
+[[Continuar não aceitando o serviço.]]:
+@clear
+<p>O gnomo se mostra decepcionado com sua escolha, partindo de sua casa você volta para o caminho até RagFord algumas moedas extras seria bom mas você não estava disposto a ser pego roubando cogumelos.</p>
+</br>Fim.
+
+[[Aceitar serviço.]]:
+@clear
+<p>Com os suplementos restabelecidos e um novo serviço você saiu da casa do gnomo pronto para voltar ao caminho e chegar o mais breve possível em RagFord.</p>
++++...
+@clear
+<p>O resto da jornada até RagFord ocorreu sem problemas, chegando no meio do dia o cozinheiro provavelmente deveria estar trabalhando na pousada principal da cidade proporcionando o momento perfeito para o roubo. Se direcionando para a casa onde o furto deveria ocorrer você viu que havia duas maneiras de entrar nela.</p>
+</br>[[Pular janela.]]
+</br>
+</br>[[Entrar pela porta do fundos.]]
+
+[[Pular janela.]]:
+@clear
+<p>Com uma janela do segundo andar aberta você escalou a parede da casa até chegar nela, a casa estava sem outras pessoas assim como havia sido planejado, mas qual seria o cômodo que o cozinheiro guardava os cogumelos. Indo no escritório só parecia ter livros de culinária mas nada valioso, na sala uma grande mesa e seis cadeiras mas novamente nada valioso, na cozinha uma torta em cima de um balcão, abrindo as portas do armário de ingredientes um pote de pimenta, temperos verdes, cogumelos super valiosos, farinha ... espera você achou cogumelos super valiosos. Agora só era necessário pegar e sair da casa do mesmo modo que você entrou. Mas a torta estava com uma cara tão deliciosa uma pedaço não faria mal.</p>
+</br>[[Comer torta.]]
+</br>
+</br>[[Não comer torta.]]
+
+[[Não comer torta.]]:
+@clear
+<p>Sem comer a torta você saiu da casa, pronto para fazer a entrega ao gnomo dos cogumelos.</p>
++++...
+@clear
+<p>Na casa do gnomo os cogumelos são entregues e em retorno você recebeu algumas moedas, só lhe restava retornar a RagFord e fazer bom uso delas a sua jornada tinha sido melhor do que esperado.</p>
+</br>Fim.
+
+[[Comer torta.]]:
+@clear
+<p>Você pegou um pedaço de torta e começou a comer. Na quarta mordida o cozinheiro em um surto de fúria chegou em casa.
+</br>- Seu ladrão ordinário invadindo minha casa e ainda comendo minha torta!!! - Gritou ele.
+Você ficou paralisado sem expressar nenhuma reação com a boca aberta e com torta nela também.
+</br>- São esses os meus cogumelos super valiosos em cima da mesa? Você deve trabalhar para aquele
+gnomo vigarista! Achou que você poderia ou pular a janela da minha casa e ninguém ia ver! - Continuou gritando.
+Ah então foi assim que você foi descoberto.
+</br>- Os guardas já estão vindo lhe prender nem pense em se mover - ordenou.
+Só lhe restava esperar seu destino sentado…</p>
++++...
+@clear
+<p>Já na prisão você ponderou que talvez não devesse ter comido a torta.</p>
+</br>Fim.
+
+[[Entrar pela porta do fundos.]]:
+@clear
+<p>Com um pouco de força a fechadura da porta dos fundos se abriu, a casa estava sem outras pessoas assim como havia sido planejado, mas qual seria o cômodo que o cozinheiro guardava os cogumelos. Indo no escritório só parecia ter livros de culinária mas nada valioso, na sala uma grande mesa e seis cadeiras mas novamente nada valioso, na cozinha uma torta em cima de um balcão, abrindo as portas do armário de ingredientes um pote de pimenta, temperos verdes, cogumelos super valiosos, farinha ... espera você achou cogumelos super valiosos. Agora só era necessário pegar e sair da casa do mesmo modo que você entrou. Mas a torta estava com uma cara tão deliciosa uma pedaço não faria mal.</p>
+</br>[[Comer torta..]]
+</br>
+</br>[[Não comer torta.]]
+
+[[Comer torta..]]:
+@clear
+<p>Saindo da casa depois de comer a torta e guardando os cogumelos em sua mochila, começou o caminho de volta até o gnome depois de alguns passos, começou a sentir um peso na barriga e uma dificuldade de manter os olhos aberto, ah de novo não, então tudo ficou preto...</p>
++++...
+@clear
+<p>Agora acordando em um hospital a primeira coisa que você fez foi checar sua mochila... diabos os cogumelos não estavam mais ali talvez você não devesse ter comido a torta. Enquanto as consequências não chegavam aproveitaria para usufruir mais algumas horas de sono tranquilo naquela cama aconchegante.</p>
+</br>Fim.
+
+[[Estabelecer acampamento na caverna.]]:
+@clear
+<p>Com uma fogueira acesa aquecendo o interior da caverna ficando protegido do frio, você finalmente poderia dormir.</p>
++++...
+@clear
+<p>Acordado em um susto, com sons de movimento que ecoavam na caverna apenas uma pensamento lhe passava pela mente você não estava sozinho ali. Com um fogo próximo de acabar a iluminação só lhe permitia ver uma silhueta sem muitos detalhes além de que a criatura que estava presente era pelo menos meio metro maior que você. Lentamente levantando para conseguir uma visão melhor, não restava dúvida o que estava em sua frente era um dragão de escamas azuis e olhos amarelos inquisidores. Sua próxima atitude deveria ser bem articulada.</p>
+</br>[[- Não se aproxime mais ou você vai se arrepender! - Falou agressivamente.]]
+</br>
+</br>[[- Olá ...  - Falou tentando manter a maior calma possível.]]
+
+[[- Não se aproxime mais ou você vai se arrepender! - Falou agressivamente.]]:
+@clear
+<p>O dragão emitiu um rosnado, que fez você recuar e em um tom irônico e de desdém falou:
+</br> - Eu me arrepender? Olha seu tamanho humano quem realmente está em vantagem eu ou você.</p>
++++...
+@clear
+<p>Você não podia acreditar em seus ouvidos não bastava ter encontrado um dragão pela primeira vez e ele também podia falar.</p>
+</br>[[- E precisava me acordar para provar toda essa vantagem? E agora é a hora que você me mata? Poderia ter feito isso enquanto eu dormia ainda. - Resmungou você irritado.]]
+</br>
+</br>[[- Okay você fez seu argumento mas o que quer comigo? - Curioso você perguntou.]]
+
+[[- Olá ...  - Falou tentando manter a maior calma possível.]]:
+@clear
+<p>O dragão lhe passou os olhos analisando cada uma de suas feições físicas. Até em um momento de conclusão perguntar:
+</br>- O que você faz aqui humano? </p>
++++...
+@clear
+<p>Você não podia acreditar em seus ouvidos não bastava ter encontrado um dragão pela primeira vez e ele também podia falar.</p>
+</br>[[- Eu estava descansando até você me acordar com tanta sutileza só falta querer me machucar agora. - Você exclamou indignado.]]
+</br>
+</br>[[- Eu? Eu entrei nessa caverna para realizar uma pequena pausa na minha jornada mas em que posso lhe ajudar? - Você perguntou animado.]]
+
+[[- E precisava me acordar para provar toda essa vantagem? E agora é a hora que você me mata? Poderia ter feito isso enquanto eu dormia ainda. - Resmungou você irritado.]]:
+@clear
+<p>Fazendo questão de mostrar suas garras e dentes afiados o dragão exigiu:
+</br>- Você vai me ajudar a encontrar meu irmão mais velho ele já devia ter retornado a essa caverna a 2 dias atrás mas ainda não recebi nenhuma notícia sua!</p>
++++...
+@clear
+<p>Encontrar alguém de floresta de Orswick não seria uma tarefa fácil, se ao menos você tivesse escolha mas parecia que por enquanto nada poderia ser feito sobre isso, um ponto de referência já seria bom, ah mas claro.
+</br>- Cof Cof Ei sua majestade dragão qual foi o último lugar que seu irmão deveria ir antes de retornar aqui?
+</br>- Mew - respondeu ele brevemente.
+</br>- Mew!? Mas Mew é uma das partes mais perigosas da floresta, e você quer que eu vá lá? - Exclamou quase gritando.
+</br>- Sim - respondeu novamente brevemente.
+</br>Notando que não conseguiria mais respostas dele e aceitando seu destino, resolveu sair da caverna e finalmente começar a busca. </p>
++++...
+@clear
+<p>Após algumas horas de caminhada e a presença constante do silêncio, vocês haviam chegada em Lee talvez a parte da floresta antes de Mew mais tranquila, a região era conhecida por ser a casa de furões. Furões por todo lado, furões em árvores, furões no chão, furões correndo, furões andando... uma grande sociedade de furões. Eles observavam a presença dos dois estranhos com curiosidade, quão raro era ver um dragão e um humano juntos.
+</br>- Aileen!! - chamou o dragão lhe causando um susto.
+Mas quem era Aileen? De repente um furão fêmea branco apareceu correndo em sua direção o dragão e ela pareciam velhos conhecidos e logo começaram uma conversa que você não entendia. Após alguns minutos Aileen partiu e o dragão lhe dirigiu a palavra:
+</br>- Aileen me informou que meu irmão passou por aqui a 3 dias atrás e que temos dois atalhos para chegar em Mew, por uma ponte instável ou por um pântano abandonado.</p>
+</br>[[Seguir por pântano...]]
+</br>
+</br>[[Seguir por ponte...]]
+
+[[- Okay você fez seu argumento mas o que quer comigo? - Curioso você perguntou.]]:
+@clear
+<p>- É você vai servir - disse o dragão seguido de um suspiro - meu irmão mais velho deveria ter voltado a 2 dias. - Ele fez uma pausa. - Você estaria disposto a me ajudar encontrar ele? - Completou com repulsão.</p>
+</br>[[Ajudar.]]
+</br>
+</br>[[Não ajudar.]]
+
+[[- Eu estava descansando até você me acordar com tanta sutileza só falta querer me machucar agora. - Você exclamou indignado.]]:
+@clear
+<p>Fazendo questão de mostrar suas garras e dentes afiados o dragão exigiu:
+</br>- Você vai me ajudar a encontrar meu irmão mais velho ele já devia ter retornado a essa caverna a 2 dias atrás mas ainda não recebi nenhuma notícia sua!</p>
++++...
+@clear
+<p>Encontrar alguém de floresta de Orswick não seria uma tarefa fácil, se ao menos você tivesse escolha mas parecia que por enquanto nada poderia ser feito sobre isso, um ponto de referência já seria bom, ah mas claro.
+</br>- Cof Cof Ei sua majestade dragão qual foi o último lugar que seu irmão deveria ir antes de retornar aqui?
+</br>- Mew - respondeu ele brevemente.
+</br>- Mew!? Mas Mew é uma das partes mais perigosas da floresta, e você quer que eu vá lá? - Exclamou quase gritando.
+</br>- Sim - respondeu novamente brevemente.
+</br>Notando que não conseguiria mais respostas dele e aceitando seu destino, resolveu sair da caverna e finalmente começar a busca. </p>
++++...
+@clear
+<p>Após algumas horas de caminhada e a presença constante do silêncio, vocês haviam chegada em Lee talvez a parte da floresta antes de Mew mais tranquila, a região era conhecida por ser a casa de furões. Furões por todo lado, furões em árvores, furões no chão, furões correndo, furões andando... uma grande sociedade de furões. Eles observavam a presença dos dois estranhos com curiosidade, quão raro era ver um dragão e um humano juntos.
+</br>- Aileen!! - chamou o dragão lhe causando um susto.
+Mas quem era Aileen? De repente um furão fêmea branco apareceu correndo em sua direção o dragão e ela pareciam velhos conhecidos e logo começaram uma conversa que você não entendia. Após alguns minutos Aileen partiu e o dragão lhe dirigiu a palavra:
+</br>- Aileen me informou que meu irmão passou por aqui a 3 dias atrás e que temos dois atalhos para chegar em Mew, por uma ponte instável ou por um pântano abandonado.</p>
+</br>[[Seguir por pântano...]]
+</br>
+</br>[[Seguir por ponte...]]
+
+[[- Eu? Eu entrei nessa caverna para realizar uma pequena pausa na minha jornada mas em que posso lhe ajudar? - Você perguntou animado.]]:
+@clear
+<p>- É você vai servir - disse o dragão seguido de um suspiro - meu irmão mais velho deveria ter voltado a 2 dias. - Ele fez uma pausa. - Você estaria disposto a me ajudar encontrar ele? - Completou com repulsão.</p>
+</br>[[Ajudar.]]
+</br>
+</br>[[Não ajudar.]]
+
+[[Ajudar.]]:
+@clear
+<p>Encontrar alguém de floresta de Orswick não seria uma tarefa fácil, se ao menos vocês tivessem algum ponto de referência, ah mas claro.
+</br>- Cof Cof Ei dragão qual foi o último lugar que seu irmão deveria ir antes de retornar aqui?
+</br>- Mew - respondeu ele brevemente.
+</br>- Mew!? Mas Mew é uma das partes mais perigosas da floresta, o que ele estava fazendo lá?
+</br>- Pesquisa - respondeu novamente brevemente.
+</br>Notando que não conseguiria mais respostas dele, resolveu sair da caverna e finalmente começar a busca.</p>
++++...
+@clear
+<p>Após algumas horas de caminhada e a presença constante do silêncio, vocês haviam chegada em Lee talvez a parte da floresta antes de Mew mais tranquila, a região era conhecida por ser a casa de furões. Furões por todo lado, furões em árvores, furões no chão, furões correndo, furões andando... uma grande sociedade de furões. Eles observavam a presença dos dois estranhos com curiosidade, quão raro era ver um dragão e um humano juntos.
+</br>- Aileen!! - chamou o dragão lhe causando um susto.
+Mas quem era Aileen? De repente um furão fêmea branco apareceu correndo em sua direção o dragão e ela pareciam velhos conhecidos e logo começaram uma conversa que você não entendia. Após alguns minutos Aileen partiu e o dragão lhe dirigiu a palavra:
+</br>- Aileen me informou que meu irmão passou por aqui a 3 dias atrás e que temos dois atalhos para chegar em Mew, por uma ponte instável ou por um pântano abandonado.</p>
+</br>[[Seguir por pântano.]]
+</br>
+</br>[[Seguir por ponte.]]
+
+[[Não ajudar.]]:
+@clear
+<p>Por mais que o dragão parecesse desesperado você tinha sua própria jornada que já estava atrasada para terminar.</p>
++++...
+@clear
+<p>Sem mais surpresas você chegou a RagFord mas teria uma história para o resto da vida o encontro com um dragão que fala.</p>
+</br>Fim.
+
+[[Seguir por pântano.]]:
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava o pântano, o lugar realmente parecia abandonado sem nenhuma vida, com passos lentos e cautelosos iam avançando suas botas logo se encontram molhadas. Um barulho soou na água e uma criatura começou a engrandecer, era um monstro do pântano com raízes cobrindo seu corpo e parecendo pronto para golpear alguém. </p>
+</br>[[Sacar a espada que estava na sua cintura.]]:
+</br>
+</br>[[Você entra em pânico.]]
+</br>
+</br>[[Pedir para que o dragão faça alguma coisa para proteger vocês.]]
+
+[[Seguir por ponte.]]:
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava um ponte de madeira, o lugar parecia pronto para desabar a qualquer momento porém felizmente ela larga o suficiente para alguém com o porte do dragão passar. Antes de começar a travessia vocês deviam decidir quem iria primeiro.</p>
+</br>[[Você.]]
+</br>
+</br>[[Dragão.]]
+
+[[Seguir por pântano...]]:
+@clear
+<p>Depois de decidir que vocês devem seguir pelo pântano, o dragão anuncia que vocês na verdade vão pela ponte afinal ele está no comando e você não é confiável.</p>
+</br>[[Tentando ser compreensivo  afinal o irmão dele está desaparecido você argumenta que realmente acredita que o pântano é a melhor escolha.]]
+</br>
+</br>[[Você não acredita nas palavras que saem da boca dele. Ele só está no comando porque tem garras maiores.]]
+
+[[Seguir por ponte...]]:
+@clear
+<p>Depois de decidir que vocês devem seguir pela ponte, o dragão anuncia que vocês na verdade vão pelo pântano afinal ele está no comando e você não é confiável.</p>
+</br>[[Tentando ser compreensivo  afinal o irmão dele está desaparecido você argumenta que realmente acredita que a ponte é a melhor escolha.]]
+</br>
+</br>[[Você não acredita nas palavras que saem da boca dele. Ele só está no comando porque tem garras maiores!]]
+
+[[Tentando ser compreensivo  afinal o irmão dele está desaparecido você argumenta que realmente acredita que o pântano é a melhor escolha.]]:
+@clear 
+<p>Seguem pelo pântano.</p>
++++...
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava o pântano, o lugar realmente parecia abandonado sem nenhuma vida, com passos lentos e cautelosos iam avançando suas botas logo se encontram molhadas. Um barulho soou na água e uma criatura começou a engrandecer, era um monstro do pântano com raízes cobrindo seu corpo e parecendo pronto para golpear alguém. </p>
+</br>[[Pedir para que o dragão faça alguma coisa para proteger vocês.]]
+</br>
+</br>[[Sacar a espada que estava na sua cintura.]]
+
+[[Você não acredita nas palavras que saem da boca dele. Ele só está no comando porque tem garras maiores.]]:
+@clear
+<p>Seguem pela ponte.</p>
++++...
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava um ponte de madeira, o lugar parecia pronto para desabar a qualquer momento porém felizmente ela larga o suficiente para alguém com o porte do dragão passar. Antes de começar a travessia o dragão decidi que ele vai primeiro</p>
++++...
+@clear
+<p>Com passos cuidados o dragão começou a travessia, quando estava na metade da ponte os desmoronamento começaram a acontecer. O dragão gritou para você se apressar.</p>
+</br>[[Correr para o lado contrário do dragão.]]
+</br>
+</br>[[Começar a travessia apressadamente.]]
+
+[[Pedir para que o dragão faça alguma coisa para proteger vocês.]]:
+@clear
+<p>Para derrotar o monstro vocês precisam trabalhar em equipe, o dragão lhe dá a missão de distrair o inimigo para que no momento certo ele possa acertar um ataque fatal. Sua tática é gritar:</p>
+</br>[[- Hey seu bicho feioso suas raízes estão podres!]]
+</br>
+</br>[[- Hey seu bicho fedorento todo esse tempo na água e ainda cheirando mal!]]
+
+[[- Hey seu bicho fedorento todo esse tempo na água e ainda cheirando mal!]]:
+@clear
+<p>A atenção do monstro estava focada em você e ele começava a se movimentar em sua direção soltando grunhidos, enquanto isso o dragão se posicionava em um ângulo perfeito para dar o bote. Quando ele estava a um metro de lhe atingir o dragão usou seu rabo para o derrubar insciente, o que gerou uma oportunidade de fuga ideal. Sem perder tempo e animados pela vitória saíram em disparada do local sem olhar para trás e só foram parar quando encontraram flores brancas no chão sinal típico da região Mew. Depois dessa situação de perigo juntos você resolveu que deveria saber pelo menos uma informação.
+</br>- Sinto que já passamos da zona onde preciso ficar só lhe chamando de dragão, então qual o seu nome?
+</br>- Meu nome é Saff, e agora que estamos ligados vai me dizer a razão de não ter usado essa espada na sua cintura lá trás?
+Você olha para a sua cintura já havia até esquecido que ela estava lá, a espada um presente da sua mãe antes de sair de casa era uma relíquia da sua família.
+</br>- A verdade é que não sei como usa-la - falou em um tom baixo envergonhado e saiu andando ouvindo ao fundo a risada de Saff.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era hora de se despedir e finalizar essa aventura.
+</br>- Saff, irmão do Saff essa é a hora que me despeço ainda preciso chegar em RadFord - você falou com um tom triste.
+</br>- Ei você não gostaria de continuar conosco? - perguntou Saff para sua surpresa.
+</br>- Meu irmão parece gostar de você seria uma honra se viesse conosco - completou seu irmão mais velho.</p>
+</br>[[Escolher continuar com os dragões.]]
+</br>
+</br>[[Ir para RagFord.]]
+
+[[- Hey seu bicho feioso suas raízes estão podres!]]:
+@clear
+<p>A atenção do monstro estava focada em você e ele começava a se movimentar em sua direção soltando grunhidos, enquanto isso o dragão se posicionava em um ângulo perfeito para dar o bote. Quando ele estava a um metro de lhe atingir o dragão usou seu rabo para o derrubar insciente, o que gerou uma oportunidade de fuga ideal. Sem perder tempo e animados pela vitória saíram em disparada do local sem olhar para trás e só foram parar quando encontraram flores brancas no chão sinal típico da região Mew. Depois dessa situação de perigo juntos você resolveu que deveria saber pelo menos uma informação.
+</br>- Sinto que já passamos da zona onde preciso ficar só lhe chamando de dragão, então qual o seu nome?
+</br>- Meu nome é Saff, e agora que estamos ligados vai me dizer a razão de não ter usado essa espada na sua cintura lá trás?
+Você olha para a sua cintura já havia até esquecido que ela estava lá, a espada um presente da sua mãe antes de sair de casa era uma relíquia da sua família.
+</br>- A verdade é que não sei como usa-la - falou em um tom baixo envergonhado e saiu andando ouvindo ao fundo a risada de Saff.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era hora de se despedir e finalizar essa aventura.
+</br>- Saff, irmão do Saff essa é a hora que me despeço ainda preciso chegar em RadFord - você falou com um tom triste.
+</br>- Ei você não gostaria de continuar conosco? - perguntou Saff para sua surpresa.
+</br>- Meu irmão parece gostar de você seria uma honra se viesse conosco - completou seu irmão mais velho.</p>
+</br>[[Escolher continuar com os dragões.]]
+</br>
+</br>[[Ir para RagFord.]]
+
+[[Escolher continuar com os dragões.]]:
+@clear
+<p>O futuro com certeza seria repleto de aventuras, você e mais dois dragões.</p>
+</br>Fim.
+
+[[Ir para RagFord.]]:
+@clear
+<p>Permanecer ao seu destino original parecia a decisão mais segura, mas você sempre levaria a memória dos dos irmãos dragões.</p>
+</br>Fim.
+
+[[Sacar a espada que estava na sua cintura.]]:
+@clear
+<p>Único problema é que você não sabe como usa-la, ela havia sido um presente antes de sair de casa de sua mãe uma relíquia da família.</p>
++++...
+@clear
+<p>Com o monstro se aproximando desajeitado e sem nenhuma habilidade você preparou um ataque, levantou a espada, fechou os olhos e tentou acertar o golpe. Quando abriu os olhos a criatura estava no chão e sentiu uma imensa dor no braço parece que vitória tinha seus custos o machucado ali provavelmente deixaria uma cicatriz.</p>
++++...
+@clear
+<p>Olhou para o lado e o dragão que estava balançado a cabeça em negação, não impressionado você falou:
+</br>- Pelo menos eu fiz algo enquanto você desse tamanho ficou parado, eu chegaria a dizer que salvei sua vida e esse machucado é prova.
+O dragão riu e respondeu:
+</br>- Salvou?? - E soltou uma gargalhada ainda maior. - Esse machucado só prova a sua falta de habilidade.
+Os dois continuaram a andar no caminho mas sem parar de discutir, até notarem flores brancas no chão típicas da região de Mew. Eles estavam perto de atingir seu destino mas antes você precisava saber uma informação.
+</br>- Já que vamos entrar em uma região perigosa acho que já passamos pelo suficiente para você pelo menos me dizer seu nome.
+</br>- Você precisar ser mais paciente - respondeu o dragão enigmático e segui em frente.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, a dor do seu machucado começou a pior notando isso o dragão maior ofereceu-se para leva-lo voando até RagFord. Aceitando sua oferta era hora de se despedir de seu antigo companheiro de viagem.
+</br>- Tente não morrer sem mim - você falou com afeição
+</br>- Como se fosse eu que estivesse com um ferimento - respondeu ele ainda com uma máscara de indignação - Obrigado e Adeu - completou finalmente mostrando seus verdadeiros sentimentos, o de gratidão.
+</br>Subindo com cuidado no dragão você estava preparado enfim ir para RagFord.</p>
++++...
+@clear
+<p>Sendo deixado nas fronteiras de RagFord pelo dragão, você entrou na cidade com um sorriso no rosto sabendo que não que se esqueceria da aventura que viveu, você havia montado em um dragão!</p>
+</br>Fim.
+
+[[Tentando ser compreensivo  afinal o irmão dele está desaparecido você argumenta que realmente acredita que a ponte é a melhor escolha.]]:
+@clear
+<p>Seguem pela ponte.</p>
++++...
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava um ponte de madeira, o lugar parecia pronto para desabar a qualquer momento porém felizmente ela larga o suficiente para alguém com o porte do dragão passar. Antes de começar a travessia vocês deviam decidir quem iria primeiro.</p>
+</br>[[Você.]]
+</br>
+</br>[[Dragão..]]
+
+[[Você não acredita nas palavras que saem da boca dele. Ele só está no comando porque tem garras maiores!]]:
+@clear
+<p>Seguem pelo pântano.</p>
++++...
+@clear
+<p>Curioso você questionou porque o dragão não está voando, ele respondeu desinteressado que tem seus motivos. Logo a frente estava o pântano, o lugar realmente parecia abandonado sem nenhuma vida, com passos lentos e cautelosos iam avançando suas botas logo se encontram molhadas. Um barulho soou na água e uma criatura começou a engrandecer, era um monstro do pântano com raízes cobrindo seu corpo e parecendo pronto para golpear alguém. </p>
+</br>[[Gritar para o dragão fazer alguma coisa.]]
+</br>
+</br>[[Sacar a espada que estava na sua cintura.]]
+
+[[Gritar para o dragão fazer alguma coisa.]]:
+@clear
+<p>Mas quando olha para o lado ela já está mais lá saiu em disparada correndo.</p>
+</br>[[ Com raiva sacar a espada que estava na sua cintura.]]
+</br>
+</br>[[Sair correndo também.]]
+
+[[Com raiva sacar a espada que estava na sua cintura.]]:
+@clear
+<p>Único problema é que você não sabe como usa-la, ela havia sido um presente antes de sair de casa de sua mãe uma relíquia da família.</p>
++++...
+@clear
+<p>Com o monstro se aproximando desajeitado e sem nenhuma habilidade você preparou um ataque, levantou a espada, fechou os olhos e tentou acertar o golpe. Quando abriu os olhos a criatura estava no chão e sentiu uma imensa dor no braço parece que vitória tinha seus custos o machucado ali provavelmente deixaria uma cicatriz. Essa pode ser sua chance de escapar.</p>
+</br>[[Sair correndo na direção contrária que o dragão foi.]]
+</br>
+</br>[[Gritar para o dragão esperar.]]
+
+[[Sair correndo na direção contrária que o dragão foi.]]:
+@clear
+<p>Você viu uma chance de fuga do dragão ranzinza e a aproveitou agora finalmente podia retornar para própria jornada.</p>
++++...
+@clear
+<p>Sem mais surpresas você chegou a RagFord mas teria uma história para o resto da vida o encontro com um dragão que fala.</p>
+</br>Fim.
+
+[[Gritar para o dragão esperar.]]:
+@clear
+<p>Você saiu correndo atrás do dragão e quando o alcança olhou para o chão  e notou flores brancas típicas da região de Mew, vocês haviam chegado ao seu destino, ofegante falou:
+</br>- Muito obrigado, pela ajuda lá trás ótimo trabalho! Você tem um nome ou posso começar a lhe chamar de covarde agora em diante.
+O dragão ignorou a reclamação e a pergunta e seguiu em frente.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era a hora de você se despedir dos dragões.
+</br>- Então é aqui que partimos em caminhos diferentes, boa sorte em consertar suas asas - você falou - covarde - e sussurrou a última parte para que só o dragão menor ouvisse.
+</br>Ele com um olhar assassino rosnou para você.
+</br>- Isso é maneira de tratar quem ajudou você irmão? - repreendeu o irmão mais velho.
+</br>- Obrigado por nos ajudar espero que você faça uma boa jornada - completou.
+</br>Você tinha um longo caminho até RadFord e sem mais delongas partiu.</p>
++++...
+@clear
+<p>Com uma viagem tranquila finalmente chegou em RadFord tendo vivido uma aventura no mínimo fora do comum.</p>
+</br>Fim.
+
+[[Sair correndo também.]]:
+@clear
+<p>Com muito esforço você alcançou o dragão e quando olhou para o chão notou flores brancas típicas da região de Mew, vocês haviam chegado ao seu destino, ofegante falou:
+</br>- Muito obrigado, por me abandonar lá trás! Você tem um nome ou posso começar a lhe chamar de covarde agora em diante.
+O dragão ignorou a reclamação e a pergunta e seguiu em frente.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era a hora de você se despedir dos dragões.
+</br>- Então é aqui que partimos em caminhos diferentes, boa sorte em consertar suas asas - você falou - covarde - e sussurrou a última parte para que só o dragão menor ouvisse.
+</br>Ele com um olhar assassino rosnou para você.
+</br>- Isso é maneira de tratar quem ajudou você irmão? - repreendeu o irmão mais velho.
+</br>- Obrigado por nos ajudar espero que você faça uma boa jornada - completou.
+</br>Você tinha um longo caminho até RadFord e sem mais delongas partiu.</p>
++++...
+@clear
+<p>Com uma viagem tranquila finalmente chegou em RadFord tendo vivido uma aventura no mínimo fora do comum.</p>
+</br>Fim.
+
+[[Você entra em pânico.]]:
+@clear
+<p>O monstro começou a vir em sua direção mas você estava paralisado. O dragão para poder lhe defender se jogou na sua frente nocauteando a criatura mas se machucando no processo.</p>
++++...
+@clear
+<p>Seguindo em frente lentamente com o novo ferimento do dragão e seu peso na consciência de culpa, notaram que chegaram em um ponto com flores brancas no chão caracteristica tipica da região de Mew. Mas antes de continuar você precisava se desculpar.
+</br>- Você pode me dizer seu nome dragão para que eu posso me desculpar apropriadamente?
+</br>- Meu nome é Saff.
+</br>- Bom Saff me desculpe que você teve que se machucar por eu ter entrado em pânico - falou com voz de choro.
+O dragão sorriu e respondeu.
+</br>- Não se preocupe eu lhe salvei por livre espontânea vontade afinal você está me ajudando. 
+</br>Com o ar limpo entre os dois eles estavam prontos para prosseguir.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, você e os irmãos dragões compartilhavam sorrisos de companheirismo,  o irmão mais velho notou que o mais novo estava ferido e comentou:
+</br>- Onde você conseguiu isso?
+</br>- Ele salvou minha vida - intervenho você.
+</br>- Meu irmão um herói - falou orgulhoso o dragão mais velho.
+</br>Infelizmente era hora de se despedir.
+</br>- Talvez nós possamos ir com você em sua jornado... - sugeriu Saff a você
+</br>Surpreso você logo falou animado:
+</br>- Seria uma honra!</p>
++++...
+@clear
+<p>Você e os dois dragões partiram rumo a RagFord, prontos para construir novas memórias juntos.</p>
+</br>Fim.
+
+[[Você.]]:
+@clear
+<p>Com passos cuidados você foi na frente, quando estava na metade da ponte o dragão começou a seguir o caminho também, após alguns minutos os primeiros sinais de desmoronamento começaram a aparecer. O dragão gritou para você ficar calmo.</p>
+</br>[[Com medo você saiu correndo.]]
+</br>
+</br>[[Manteve a calma e continuou no mesmo ritmo.]]
+
+[[Dragão.]]:
+@clear
+<p>Com passos cuidados o dragão foi na frente, quando estava na metade da ponte você começou a seguir o caminho também, após alguns minutos os primeiros sinais de desmoronamento começaram a aparecer. O dragão gritou para você ficar calmo.</p>
++++...
+@clear
+<p>Você manteve a calma e continuou no mesmo ritmo.</p>
++++...
+@clear
+<p>Apesar dos desmoronamentos vocês conseguiram fazer a travessia sem mais problemas. Já do outro lado compartilharam um sorriso e quando olharam para baixo observaram flores brancas típicas da região de Mew.
+</br>- Nós conseguimos dragão! - Exclamou você animado.
+</br>- Saff, meu nome é Saff - respondeu o dragão seguido de mais um sorisso.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era hora de se despedir e finalizar essa aventura.
+</br>- Saff, irmão do Saff essa é a hora que me despeço ainda preciso chegar em RadFord - você falou com um tom triste.
+</br>- Ei você não gostaria de continuar conosco? - perguntou Saff para sua surpresa.
+</br>- Meu irmão parece gostar de você seria uma honra se viesse conosco - completou seu irmão mais velho.</p>
+</br>[[Escolher continuar com os dragões.]]
+</br>
+</br>[[Ir para RagFord.]]
+
+[[Com medo você saiu correndo.]]:
+@clear
+<p>A ponte começou a desmontar mais rapidamente obrigando o  dragão a também acelerar os passo e por consequência no processo  se machucando. Após a travessia ele exclamou enfurecido.
+</br>- Eu não falei para você ficar calmo.
+</br>- Me desculpa eu entrei em pânico - você lamentou.
+A resposta causou que ele soltasse um rosnado. Quando olhou para o chão notou flores brancas típicas da região de Mew, ao menos vocês estavam mais perto do objetivo final.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, o dragão mais velho notou que seu irmão estava com um machucado.
+</br>- Como isso aconteceu? - ele perguntou.
+</br>O dragão mais velho ficou em silêncio.
+</br>- Humano, você teve alguma coisa haver com isso? - fez a pergunta direcionado a você.
+</br>Assustado você disse.
+</br>- Bom foi ótimo conhecer vocês até uma próxima vez.
+</br>Logo saiu apressado antes que as coisas escalassem para um próximo nível, o caminho até RadFord ainda era longo.</p>
++++...
+@clear
+<p>Ao chegar em RadFor você finalmente pode respirar aliviado, sem mais aventuras com dragões e situações de risco.</p>
+</br>Fim.
+
+[[Manteve a calma e continuou no mesmo ritmo.]]:
+@clear
+<p>Apesar dos desmoronamentos vocês conseguiram fazer a travessia sem mais problemas. Já do outro lado compartilharam um sorriso e quando olharam para baixo observaram flores brancas típicas da região de Mew.
+</br>- Nós conseguimos dragão! - Exclamou você animado.
+</br>- Saff, meu nome é Saff - respondeu o dragão seguido de mais um sorisso.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, era hora de se despedir e finalizar essa aventura.
+</br>- Saff, irmão do Saff essa é a hora que me despeço ainda preciso chegar em RadFord - você falou com um tom triste.
+</br>- Ei você não gostaria de continuar conosco? - perguntou Saff para sua surpresa.
+</br>- Meu irmão parece gostar de você seria uma honra se viesse conosco - completou seu irmão mais velho.</p>
+</br>[[Escolher continuar com os dragões.]]
+</br>
+</br>[[Ir para RagFord.]]
+
+[[Correr para o lado contrário do dragão.]]:
+@clear
+<p>Quando você olhou para trás a ponte havia desabado sem chances do dragão lhe seguir em sua fuga finalmente retornando a sua própria jornada.</p>
++++...
+@clear
+<p>Sem mais surpresas você chegou a RagFord mas teria uma história para o resto da vida o encontro com um dragão que fala.</p>
+</br>Fim.
+
+[[Começar a travessia apressadamente.]]:
+@clear
+<p>A ponte começou a desmontar mais rapidamente e por consequência no processo você acabou se machucando. Após a travessia o dragão exclamou com desdém.
+</p>- Se tivesse se apressado mais não teria se machucado.
+</p>- Me desculpa se a ponte não conseguiu segurar todo seu peso e eu tive que pagar o preço.
+A resposta causou que ele soltasse um rosnado.
+Quando olhou para o chão notou flores brancas típicas da região de Mew, ao menos vocês estavam mais perto do objetivo final.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, a dor do seu machucado começou a pior notando isso o dragão maior ofereceu-se para leva-lo voando até RagFord. Aceitando sua oferta era hora de se despedir de seu antigo companheiro de viagem.
+</br>- Tente não morrer sem mim - você falou com afeição
+</br>- Como se fosse eu que estivesse com um ferimento - respondeu ele ainda com uma máscara de indignação - Obrigado e Adeu - completou finalmente mostrando seus verdadeiros sentimentos, o de gratidão.
+</br>Subindo com cuidado no dragão você estava preparado enfim ir para RagFord.</p>
++++...
+@clear
+<p>Sendo deixado nas fronteiras de RagFord pelo dragão, você entrou na cidade com um sorriso no rosto sabendo que não que se esqueceria da aventura que viveu, você havia montado em um dragão!</p>
+</br>Fim.
+
+[[Dragão..]]:
+@clear
+<p>Com passos cuidados o dragão foi na frente, quando estava na metade da ponte você começou a seguir o caminho também, após alguns minutos os primeiros sinais de desmoronamento começaram a aparecer. O dragão gritou para você ficar calmo.</p>
++++...
+@clear
+<p>Você não consegue manter a calma.</p>
++++...
+@clear
+<p>A ponte começou a desmontar mais rapidamente obrigando o dragão a também acelerar os passo e por consequência no processo você se machucando. Após a travessia ela exclamou enfurecido.
+</br>- Eu não falei para você ficar calmo.
+</br>- Me desculpa eu entrei em pânico - você lamentou.
+A resposta causou que ele soltasse um rosnado.
+Quando olhou para o chão notou flores brancas típicas da região de Mew, ao menos vocês estavam mais perto do objetivo final.</p>
++++...
+@clear
+<p>Mew era um lugar sombrio, com árvores antigas e onde muitos se aventuravam em busca de itens preciosos sem nunca retornar. Por prevensão você começou andar mais perto do dragão.
+</br>- Meu irmão supostamente deveria estar ao norte - comentou o dragão.
+</br>Então em direção ao norte vocês foram. Quanto mais ao norte andavam mais um som assustador de dor ouviam, alguma
+criatura estava em um imenso sofrimento. Conforme o som ficava mais claro mais o dragão ficava agitado.
+</br>- Esse som... - disse ele - eu conheço essa voz... é meu irmão - constatou e saiu em disparada.
+</br>Você saiu em seu encalço, quando ele parou conseguiu ver uma cena que ficaria sempre em sua memória um dragão
+enorme preso em um armadilha mortal.
+</br>- Irmão ... - ele sussurrou quase perdendo a consciência.
+</br>- Como podemos tirar ele disso? - Você pediu com tom de desespero.
+</br>- Existe uma alavanca que apenas mãos humanas conseguem manipular, eu sei que nós nem sempre nos entendemos mas por favor... - suplicou.
+</br>Acatando seu pedido você foi até a alavanca e desarmou a armadilha. Assim que desarmada o dragão maior abriu suas asas o derrubando com a força do vento e soltando um grito de dor. Depois de levantar do chão você foi em direção aos irmãos que agora celebravam seu reencontro.
+</br>- Olá humano, obrigado por me salvar - disse o dragão maior.
+</br>Você apenas assentiu com a cabeça.
+</br>- Desculpe irmão não consegui encontrar a cura para suas asas - falou novamente o dragão maior.
+</br>- Cura?? - Você perguntou.
+</br>- Meu irmão menor possui um problema em suas asas eu esperava que as propriedades mágicas da água santa pudesse curá-lo, mas a lenda da água santa que supostamente deveria curar qualquer ferimento não passava de um lenda contada para atrair vítimas que a buscavam.
+</br>- Então era por isso que você não podia voar até aqui ... - constatou você ao dragão menor que desviou o olhar embaraçado.
+</br>- Acho que ficamos tempo demais em Mew, vamos voltar para Lee - falou o dragão maior.</p>
++++...
+@clear
+<p>Em Lee, a dor do seu machucado começou a pior notando isso o dragão maior ofereceu-se para leva-lo voando até RagFord. Aceitando sua oferta era hora de se despedir de seu antigo companheiro de viagem.
+</br>- Tente não morrer sem mim - você falou com afeição
+</br>- Como se fosse eu que estivesse com um ferimento - respondeu ele ainda com uma máscara de indignação - Obrigado e Adeu - completou finalmente mostrando seus verdadeiros sentimentos, o de gratidão.
+</br>Subindo com cuidado no dragão você estava preparado enfim ir para RagFord.</p>
++++...
+@clear
+<p>Sendo deixado nas fronteiras de RagFord pelo dragão, você entrou na cidade com um sorriso no rosto sabendo que não que se esqueceria da aventura que viveu, você havia montado em um dragão!</p>
+</br>Fim.
